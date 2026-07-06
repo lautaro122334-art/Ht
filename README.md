@@ -128,7 +128,7 @@ Gracias por colaborar.
 </p>
 
 <div class="objetivo">
-<p><b>Meta:</b> $500.000</p>
+<p><b>Meta:</b> $1.000.000</p>
 
 <div class="progress">
 <div></div>
@@ -141,7 +141,7 @@ Gracias por colaborar.
 </div>
 
 <div class="alias-box" id="alias">
-TU.ALIAS.AQUI
+Alias: lauty.xeneize
 </div>
 
 <button onclick="copiarAlias()">
